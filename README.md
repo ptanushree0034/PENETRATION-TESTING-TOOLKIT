@@ -34,3 +34,4 @@ Sample passwords such as admin, 1234, and password were used in the brute-force 
 
 *OUTPUT*:
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c229fa60-0209-441d-84e5-debdc63d1c18" />
